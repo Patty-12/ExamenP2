@@ -1,9 +1,11 @@
 [Patricia Lapuerta _ ExamenP2.pdf](https://github.com/user-attachments/files/30329936/Patricia.Lapuerta._.ExamenP2.pdf)
 
 Examen Segundo Parcial
-Enlace público del repositorio de GitHub: https://github.com/Patty-12/ExamenP2
+
 Capturas:
+
 •	Capturas del código de Appointment, AppointmentService y las clases *Test.java.
+
 Appointment
  
 <img width="886" height="479" alt="image" src="https://github.com/user-attachments/assets/f2b7f2e5-d7db-4bb5-aed4-ba24d710382f" />
